@@ -1,4 +1,4 @@
-## Fleet Manager v1.1.0
+## Fleet Manager v1.1.1
 A simple but useful addon manager for **Microsoft Flight Simulator 2024**.
 
 ### Features
