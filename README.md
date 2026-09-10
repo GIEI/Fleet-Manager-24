@@ -1,5 +1,5 @@
 ## This version is outdated and is no longer being developed.
-## To download the latest version, please visit Flightsim.to.
+To download the latest version, please visit Flightsim.to.
 
 
 ## Fleet Manager v1.1.1
