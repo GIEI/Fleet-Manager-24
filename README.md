@@ -1,3 +1,7 @@
+## This version is outdated and is no longer being developed.
+## To download the latest version, please visit Flightsim.to.
+
+
 ## Fleet Manager v1.1.1
 A simple but useful addon manager for **Microsoft Flight Simulator 2024**.
 
